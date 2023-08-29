@@ -1,7 +1,7 @@
 # Full Stack Drills
 This is a project I completed as a student at [hackreactor](http://hackreactor.com).
 
-<img src="img/employee-list.png" alt="assignment image" width="300">
+<img src="img/employee-list.png" alt="assignment image">
 
 
 ## Tech Stack
